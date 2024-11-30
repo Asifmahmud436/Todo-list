@@ -1,7 +1,7 @@
 export default function todo(){
     return(
         <section>
-            <h1>Hello Todo</h1>
+            <h3>Your Tasks for the day:</h3>
         </section>
     )
 }
